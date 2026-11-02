@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34287716/README.md)
 <div align="center">
 
 <img src="assets/header-flicker-github-v2.gif" width="100%" alt="Green terminal prompt types phrases, glows and flickers, then backspaces to the next phrase." />
@@ -62,40 +61,13 @@ A few things that started as ideas and turned into actual projects.
 
 A collection of things I've used, explored, modified, learned from or experimented with.
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
-  <a href="https://pixelos.net" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/pixelos.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> PixelOS
-  </a>
-  <a href="https://webosbrew.org" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/homebrew.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> LG webOS Homebrew
-  </a>
-  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/tizenbrew.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> TizenBrew
-  </a>
-  <a href="https://lineageos.org" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/lineageos.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> LineageOS
-  </a>
-  <a href="https://zorin.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/linux.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Zorin OS
-  </a>
-  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/shredpack.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> ShredPack
-  </a>
-  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/lenovo-fan-control.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Lenovo Fan Control
-  </a>
-  <a href="https://pcstudio.in" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/pc-building.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> PC Building
-  </a>
-  <a href="https://chrome.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/chrome-extensions.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Chrome Extensions
-  </a>
-  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
-    <img src="assets/logos/debloating-terminal.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Debloating
-  </a>
-</marquee>
+<a href="https://kchecksfiles.github.io/kchecksfiles/playground/">
+  <img src="assets/marquee.svg" width="100%" alt="Things I've tinkered with marquee" />
+</a>
+
+<sub>Hover to pause; click to open the interactive tech playground.</sub>
 
 </div>
 
