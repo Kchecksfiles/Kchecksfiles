@@ -1,6 +1,7 @@
+[README.md](https://github.com/user-attachments/files/34287364/README.md)
 <div align="center">
 
-<img src="assets/header-flicker.gif" width="100%" alt="Green terminal prompt types phrases, glows and flickers, then backspaces to the next phrase." />
+<img src="assets/header-flicker-github.gif" width="100%" alt="Green terminal prompt types phrases, glows and flickers, then backspaces to the next phrase." />
 
 ### KCHECKSFILES
 
