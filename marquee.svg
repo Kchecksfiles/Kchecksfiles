@@ -1,0 +1,146 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1000 110" width="100%" height="110">
+  <defs>
+    <style>
+      .marquee-container {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        background: #0d1117; /* Matches GitHub's Dark Mode Background */
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      }
+      .marquee-track {
+        display: flex;
+        width: max-content;
+        animation: scroll 40s linear infinite; /* Adjusted speed for 10 elements */
+      }
+      .marquee-track:hover {
+        animation-play-state: paused; /* Pauses smoothly when hovered */
+      }
+      .content-block {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+        padding-right: 50px;
+      }
+      .item {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        text-decoration: none;
+        color: #c9d1d9;
+        font-weight: 600;
+        font-size: 15px;
+        transition: color 0.2s ease;
+      }
+      .item:hover {
+        color: #58a6ff; /* Changes to GitHub blue on hover */
+      }
+      .icon {
+        width: 32px;
+        height: 32px;
+        object-fit: contain;
+      }
+      @keyframes scroll {
+        0% { transform: translateX(0%); }
+        100% { transform: translateX(-50%); }
+      }
+    </style>
+  </defs>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org" class="marquee-container">
+      <div class="marquee-track">
+        
+        <!-- BLOCK 1 (Original 10 Items) -->
+        <div class="content-block">
+          <a class="item" href="https://pixelos.net" target="_blank">
+            <img class="icon" src="assets/logos/pixelos.png" alt="PixelOS" />
+            <span>PixelOS</span>
+          </a>
+          <a class="item" href="https://webosbrew.org" target="_blank">
+            <img class="icon" src="assets/logos/homebrew.png" alt="LG webOS Homebrew" />
+            <span>LG webOS Homebrew</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/tizenbrew.png" alt="TizenBrew" />
+            <span>TizenBrew</span>
+          </a>
+          <a class="item" href="https://lineageos.org" target="_blank">
+            <img class="icon" src="assets/logos/lineageos.png" alt="LineageOS" />
+            <span>LineageOS</span>
+          </a>
+          <a class="item" href="https://zorin.com" target="_blank">
+            <img class="icon" src="assets/logos/linux.png" alt="Zorin OS" />
+            <span>Zorin OS</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/shredpack.png" alt="ShredPack" />
+            <span>ShredPack</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/lenovo-fan-control.png" alt="Lenovo Fan Control" />
+            <span>Lenovo Fan Control</span>
+          </a>
+          <a class="item" href="https://pcstudio.in" target="_blank">
+            <img class="icon" src="assets/logos/pc-building.png" alt="PC Building" />
+            <span>PC Building</span>
+          </a>
+          <a class="item" href="https://chrome.com" target="_blank">
+            <img class="icon" src="assets/logos/chrome-extensions.png" alt="Chrome Extensions" />
+            <span>Chrome Extensions</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/debloating-terminal.png" alt="Debloating" />
+            <span>Debloating</span>
+          </a>
+        </div>
+
+        <!-- BLOCK 2 (Exact Duplicate for Gapless Seamless Loop) -->
+        <div class="content-block" aria-hidden="true">
+          <a class="item" href="https://pixelos.net" target="_blank">
+            <img class="icon" src="assets/logos/pixelos.png" alt="PixelOS" />
+            <span>PixelOS</span>
+          </a>
+          <a class="item" href="https://webosbrew.org" target="_blank">
+            <img class="icon" src="assets/logos/homebrew.png" alt="LG webOS Homebrew" />
+            <span>LG webOS Homebrew</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/tizenbrew.png" alt="TizenBrew" />
+            <span>TizenBrew</span>
+          </a>
+          <a class="item" href="https://lineageos.org" target="_blank">
+            <img class="icon" src="assets/logos/lineageos.png" alt="LineageOS" />
+            <span>LineageOS</span>
+          </a>
+          <a class="item" href="https://zorin.com" target="_blank">
+            <img class="icon" src="assets/logos/linux.png" alt="Zorin OS" />
+            <span>Zorin OS</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/shredpack.png" alt="ShredPack" />
+            <span>ShredPack</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/lenovo-fan-control.png" alt="Lenovo Fan Control" />
+            <span>Lenovo Fan Control</span>
+          </a>
+          <a class="item" href="https://pcstudio.in" target="_blank">
+            <img class="icon" src="assets/logos/pc-building.png" alt="PC Building" />
+            <span>PC Building</span>
+          </a>
+          <a class="item" href="https://chrome.com" target="_blank">
+            <img class="icon" src="assets/logos/chrome-extensions.png" alt="Chrome Extensions" />
+            <span>Chrome Extensions</span>
+          </a>
+          <a class="item" href="https://github.com" target="_blank">
+            <img class="icon" src="assets/logos/debloating-terminal.png" alt="Debloating" />
+            <span>Debloating</span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </foreignObject>
+</svg>
