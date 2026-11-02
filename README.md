@@ -1,23 +1,16 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=60&lines=I+wonder+if+I+can+build+that.;So+I+try.;Ideas+%E2%86%92+Experiments+%E2%86%92+Projects." alt="Typing SVG" />
+<img src="assets/header-flicker.gif" width="100%" alt="I wonder if I can build that. So I try." />
 
-<br/>
+### KCHECKSFILES
 
-### `KCHECKSFILES.EXE`
-
-*An ongoing collection of curiosity-driven experiments.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kchecksfiles)
-[![Experiments](https://img.shields.io/badge/Status-Always%20Experimenting-38BDF8?style=flat-square)](https://github.com/kchecksfiles)
+*Ideas → Experiments → Projects.*
 
 </div>
 
 ---
 
-### `$ whoami`
+### A little about this place
 
 I'm someone with a lot of ideas and an even bigger curiosity about whether I can actually make them work.
 
@@ -31,79 +24,62 @@ I experiment, build, break things, debug, learn and repeat.
 
 ---
 
-### `$ ./experiments`
+### Experiments & projects
 
 A few things that started as ideas and turned into actual projects.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎬 CineTube</h3>
-
-A Chrome extension exploring a different way to experience YouTube, with a UI inspired by streaming platforms.
-
-[Explore →](https://github.com/kchecksfiles/CineTube)
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📦 ShredPack</h3>
-
-An open-source Windows archive extractor. One of those ideas that turned into a proper application.
-
-[Explore →](https://github.com/kchecksfiles/ShredPack)
-
-</td>
-</tr>
-</table>
-
----
-
-### `$ current_state`
-
-```yaml
-mode: experimenting
-approach: AI-assisted building
-mindset: curiosity-driven
-
-interests:
-  - turning ideas into applications
-  - solving interesting problems
-  - exploring what's possible with AI
-  - learning by building
-
-status: always_work_in_progress
-```
-
----
-
-### `$ github --activity`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kchecksfiles&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchecksfiles&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="49%" alt="Most used languages"/>
+<a href="https://github.com/kchecksfiles/CineTube">
+  <img src="assets/projects/cinetube.png" width="29%" alt="CineTube" />
+</a>
+<a href="https://github.com/kchecksfiles/ShredPack">
+  <img src="assets/projects/shredpack.png" width="29%" alt="ShredPack" />
+</a>
+<a href="https://github.com/kchecksfiles/Lenovo-Fan-Control">
+  <img src="assets/projects/lenovo-fan-control.png" width="29%" alt="Lenovo Fan Control" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kchecksfiles&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+[**CineTube**](https://github.com/kchecksfiles/CineTube) ·
+[**ShredPack**](https://github.com/kchecksfiles/ShredPack) ·
+[**Lenovo Fan Control**](https://github.com/kchecksfiles/Lenovo-Fan-Control)
+
+</div>
+
+---
+
+### Things I've tinkered with
+
+A collection of things I've used, explored, modified, learned from or experimented with.
+
+<div align="center">
+
+[**Open the interactive tech playground →**](https://kchecksfiles.github.io/kchecksfiles/playground/)
+
+<sub>Hover to pause the slow-moving logos. Click any logo to explore.</sub>
+
+</div>
+
+<div align="center">
+
+<a href="https://pixelos.net/"><img src="https://pixelos.net/_next/static/media/logo.0de62gs9ir51k.svg" width="68" height="68" alt="PixelOS" /></a>&nbsp;&nbsp;
+<a href="https://www.webosbrew.org/"><img src="assets/logos/homebrew.png" width="68" height="68" alt="LG webOS Homebrew" /></a>&nbsp;&nbsp;
+<a href="https://github.com/reisxd/TizenBrew"><img src="assets/logos/tizenbrew.png" width="68" height="68" alt="TizenBrew" /></a>&nbsp;&nbsp;
+<a href="https://lineageos.org/"><img src="https://cdn.simpleicons.org/lineageos/167C80" width="68" height="68" alt="LineageOS" /></a>&nbsp;&nbsp;
+<a href="https://zorin.com/os/"><img src="assets/logos/linux.png" width="68" height="68" alt="Zorin OS" /></a>&nbsp;&nbsp;
+<a href="https://github.com/kchecksfiles/ShredPack"><img src="assets/logos/shredpack.png" width="68" height="68" alt="ShredPack" /></a>&nbsp;&nbsp;
+<a href="https://github.com/kchecksfiles/Lenovo-Fan-Control"><img src="assets/logos/lenovo-fan-control.png" width="68" height="68" alt="Lenovo Fan Control" /></a>&nbsp;&nbsp;
+<a href="https://www.pcstudio.in/pc-build/"><img src="assets/logos/pc-building.png" width="68" height="68" alt="PC Building" /></a>&nbsp;&nbsp;
+<a href="https://developer.chrome.com/docs/extensions/"><img src="assets/logos/chrome-extensions.png" width="68" height="68" alt="Chrome Extensions" /></a>&nbsp;&nbsp;
+<a href="https://github.com/ChrisTitusTech/winutil"><img src="assets/logos/debloating-terminal.gif" width="68" height="68" alt="Debloating terminal" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   No grand plan. No particular destination.│
-│                                            │
-│   Just curiosity and the freedom to build. │
-│                                            │
-└────────────────────────────────────────────┘
-```
 
 **Curiosity is the brief. Building is the game.**
 
