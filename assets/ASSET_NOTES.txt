@@ -1,13 +1,10 @@
-Kchecksfiles README package
-
-Upload README.md and the assets/ folder to the root of your profile repository.
-
-The project links currently use:
-- kchecksfiles/CineTube
-- kchecksfiles/ShredPack
-- kchecksfiles/Lenovo-Fan-Control
-
-If your actual repository names differ, update those three URLs in README.md.
-
-The animated GIFs are pre-rendered because GitHub README files do not execute custom CSS or JavaScript.
-The tech-playground GIF is decorative; the static logo row below it contains the clickable links.
+README asset notes
+- PixelOS: uses the supplied PixelOS mark; official site linked.
+- LG Homebrew and TizenBrew: supplied mug artwork.
+- ShredPack: cropped from the user's supplied ShredPack banner.
+- Lenovo Fan Control: user's supplied fan mark, recoloured white.
+- PC Building: white tower icon for the black background.
+- Debloating: generic black/green animated terminal icon; no Chris Titus branding.
+- LineageOS: official Simple Icons logo CDN.
+- Linux: Tux mascot; Chrome Extensions: Chrome logo.
+- Clickable links are included for every logo.
