@@ -67,8 +67,6 @@ A collection of things I've used, explored, modified, learned from or experiment
   <img src="assets/marquee.svg" width="100%" alt="Things I've tinkered with marquee" />
 </a>
 
-<sub>Hover to pause; click to open the interactive tech playground.</sub>
-
 </div>
 
 ---
