@@ -94,6 +94,7 @@ A collection of things I've used, explored, modified, learned from or experiment
 ---
 
 <div align="center">
+<img src="./marquee.svg" width="100%" alt="Tinkered projects loop marquee" />
 
 **Curiosity is the brief. Building is the game.**
 
