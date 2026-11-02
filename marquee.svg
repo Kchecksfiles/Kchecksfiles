@@ -13,10 +13,10 @@
       .marquee-track {
         display: flex;
         width: max-content;
-        animation: scroll 40s linear infinite; /* Adjusted speed for 10 elements */
+        animation: scroll 40s linear infinite;
       }
       .marquee-track:hover {
-        animation-play-state: paused; /* Pauses smoothly when hovered */
+        animation-play-state: paused;
       }
       .content-block {
         display: flex;
@@ -35,7 +35,7 @@
         transition: color 0.2s ease;
       }
       .item:hover {
-        color: #58a6ff; /* Changes to GitHub blue on hover */
+        color: #58a6ff;
       }
       .icon {
         width: 32px;
@@ -52,46 +52,46 @@
     <div xmlns="http://w3.org" class="marquee-container">
       <div class="marquee-track">
         
-        <!-- BLOCK 1 (Original 10 Items) -->
+        <!-- BLOCK 1 (Original 10 Items with Absolute URLs) -->
         <div class="content-block">
           <a class="item" href="https://pixelos.net" target="_blank">
-            <img class="icon" src="assets/logos/pixelos.png" alt="PixelOS" />
+            <img class="icon" src="https://githubusercontent.com" alt="PixelOS" />
             <span>PixelOS</span>
           </a>
           <a class="item" href="https://webosbrew.org" target="_blank">
-            <img class="icon" src="assets/logos/homebrew.png" alt="LG webOS Homebrew" />
+            <img class="icon" src="https://githubusercontent.com" alt="LG webOS Homebrew" />
             <span>LG webOS Homebrew</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/tizenbrew.png" alt="TizenBrew" />
+            <img class="icon" src="https://githubusercontent.com" alt="TizenBrew" />
             <span>TizenBrew</span>
           </a>
           <a class="item" href="https://lineageos.org" target="_blank">
-            <img class="icon" src="assets/logos/lineageos.png" alt="LineageOS" />
+            <img class="icon" src="https://githubusercontent.com" alt="LineageOS" />
             <span>LineageOS</span>
           </a>
           <a class="item" href="https://zorin.com" target="_blank">
-            <img class="icon" src="assets/logos/linux.png" alt="Zorin OS" />
+            <img class="icon" src="https://githubusercontent.com" alt="Zorin OS" />
             <span>Zorin OS</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/shredpack.png" alt="ShredPack" />
+            <img class="icon" src="https://githubusercontent.com" alt="ShredPack" />
             <span>ShredPack</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/lenovo-fan-control.png" alt="Lenovo Fan Control" />
+            <img class="icon" src="https://githubusercontent.com" alt="Lenovo Fan Control" />
             <span>Lenovo Fan Control</span>
           </a>
           <a class="item" href="https://pcstudio.in" target="_blank">
-            <img class="icon" src="assets/logos/pc-building.png" alt="PC Building" />
+            <img class="icon" src="https://githubusercontent.com" alt="PC Building" />
             <span>PC Building</span>
           </a>
           <a class="item" href="https://chrome.com" target="_blank">
-            <img class="icon" src="assets/logos/chrome-extensions.png" alt="Chrome Extensions" />
+            <img class="icon" src="https://githubusercontent.com" alt="Chrome Extensions" />
             <span>Chrome Extensions</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/debloating-terminal.png" alt="Debloating" />
+            <img class="icon" src="https://githubusercontent.com" alt="Debloating" />
             <span>Debloating</span>
           </a>
         </div>
@@ -99,43 +99,43 @@
         <!-- BLOCK 2 (Exact Duplicate for Gapless Seamless Loop) -->
         <div class="content-block" aria-hidden="true">
           <a class="item" href="https://pixelos.net" target="_blank">
-            <img class="icon" src="assets/logos/pixelos.png" alt="PixelOS" />
+            <img class="icon" src="https://githubusercontent.com" alt="PixelOS" />
             <span>PixelOS</span>
           </a>
           <a class="item" href="https://webosbrew.org" target="_blank">
-            <img class="icon" src="assets/logos/homebrew.png" alt="LG webOS Homebrew" />
+            <img class="icon" src="https://githubusercontent.com" alt="LG webOS Homebrew" />
             <span>LG webOS Homebrew</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/tizenbrew.png" alt="TizenBrew" />
+            <img class="icon" src="https://githubusercontent.com" alt="TizenBrew" />
             <span>TizenBrew</span>
           </a>
           <a class="item" href="https://lineageos.org" target="_blank">
-            <img class="icon" src="assets/logos/lineageos.png" alt="LineageOS" />
+            <img class="icon" src="https://githubusercontent.com" alt="LineageOS" />
             <span>LineageOS</span>
           </a>
           <a class="item" href="https://zorin.com" target="_blank">
-            <img class="icon" src="assets/logos/linux.png" alt="Zorin OS" />
+            <img class="icon" src="https://githubusercontent.com" alt="Zorin OS" />
             <span>Zorin OS</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/shredpack.png" alt="ShredPack" />
+            <img class="icon" src="https://githubusercontent.com" alt="ShredPack" />
             <span>ShredPack</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/lenovo-fan-control.png" alt="Lenovo Fan Control" />
+            <img class="icon" src="https://githubusercontent.com" alt="Lenovo Fan Control" />
             <span>Lenovo Fan Control</span>
           </a>
           <a class="item" href="https://pcstudio.in" target="_blank">
-            <img class="icon" src="assets/logos/pc-building.png" alt="PC Building" />
+            <img class="icon" src="https://githubusercontent.com" alt="PC Building" />
             <span>PC Building</span>
           </a>
           <a class="item" href="https://chrome.com" target="_blank">
-            <img class="icon" src="assets/logos/chrome-extensions.png" alt="Chrome Extensions" />
+            <img class="icon" src="https://githubusercontent.com" alt="Chrome Extensions" />
             <span>Chrome Extensions</span>
           </a>
           <a class="item" href="https://github.com" target="_blank">
-            <img class="icon" src="assets/logos/debloating-terminal.png" alt="Debloating" />
+            <img class="icon" src="https://githubusercontent.com" alt="Debloating" />
             <span>Debloating</span>
           </a>
         </div>
