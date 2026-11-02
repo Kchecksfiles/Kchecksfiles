@@ -62,32 +62,40 @@ A few things that started as ideas and turned into actual projects.
 
 A collection of things I've used, explored, modified, learned from or experimented with.
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
-[**Open the interactive tech playground →**](https://kchecksfiles.github.io/kchecksfiles/playground/)
-
-<sub>All ten logos scroll continuously. Hover to pause; click a logo to visit its site.</sub>
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><a href="https://pixelos.net/"><img src="assets/logos/pixelos.png" width="58" alt="PixelOS" /></a></td>
-    <td align="center"><a href="https://www.webosbrew.org/"><img src="assets/logos/homebrew.png" width="58" alt="LG webOS Homebrew" /></a></td>
-    <td align="center"><a href="https://github.com/reisxd/TizenBrew"><img src="assets/logos/tizenbrew.png" width="58" alt="TizenBrew" /></a></td>
-    <td align="center"><a href="https://lineageos.org/"><img src="assets/logos/lineageos.png" width="58" alt="LineageOS" /></a></td>
-    <td align="center"><a href="https://zorin.com/os/"><img src="assets/logos/linux.png" width="58" alt="Zorin OS" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/kchecksfiles/ShredPack"><img src="assets/logos/shredpack.png" width="58" alt="ShredPack" /></a></td>
-    <td align="center"><a href="https://github.com/kchecksfiles/Lenovo-Fan-Control"><img src="assets/logos/lenovo-fan-control.png" width="58" alt="Lenovo Fan Control" /></a></td>
-    <td align="center"><a href="https://www.pcstudio.in/pc-build/"><img src="assets/logos/pc-building.png" width="58" alt="PC Building" /></a></td>
-    <td align="center"><a href="https://developer.chrome.com/docs/extensions/"><img src="assets/logos/chrome-extensions.png" width="58" alt="Chrome Extensions" /></a></td>
-    <td align="center"><a href="https://github.com/ChrisTitusTech/winutil"><img src="assets/logos/debloating-terminal.png" width="58" alt="Debloating" /></a></td>
-  </tr>
-</table>
+<marquee behavior="scroll" direction="left" scrollamount="5" onmouseover="this.stop();" onmouseout="this.start();">
+  <a href="https://pixelos.net" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/pixelos.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> PixelOS
+  </a>
+  <a href="https://webosbrew.org" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/homebrew.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> LG webOS Homebrew
+  </a>
+  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/tizenbrew.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> TizenBrew
+  </a>
+  <a href="https://lineageos.org" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/lineageos.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> LineageOS
+  </a>
+  <a href="https://zorin.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/linux.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Zorin OS
+  </a>
+  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/shredpack.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> ShredPack
+  </a>
+  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/lenovo-fan-control.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Lenovo Fan Control
+  </a>
+  <a href="https://pcstudio.in" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/pc-building.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> PC Building
+  </a>
+  <a href="https://chrome.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/chrome-extensions.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Chrome Extensions
+  </a>
+  <a href="https://github.com" target="_blank" style="margin-right: 50px; text-decoration: none; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 16px;">
+    <img src="assets/logos/debloating-terminal.png" width="35" style="vertical-align: middle; margin-right: 10px; border-radius: 6px;" /> Debloating
+  </a>
+</marquee>
 
 </div>
 
