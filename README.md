@@ -1,23 +1,16 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=60&lines=I+wonder+if+I+can+build+that.;So+I+try.;Ideas+%E2%86%92+Experiments+%E2%86%92+Projects." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=60&lines=I+wonder+if+I+can+build+that.;So+I+try.;Ideas+%E2%86%92+Experiments+%E2%86%92+Projects." alt="I wonder if I can build that. So I try." />
 
-<br/>
-
-### `KCHECKSFILES.EXE`
+### KCHECKSFILES
 
 *An ongoing collection of curiosity-driven experiments.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kchecksfiles)
-[![Experiments](https://img.shields.io/badge/Status-Always%20Experimenting-38BDF8?style=flat-square)](https://github.com/kchecksfiles)
 
 </div>
 
 ---
 
-### `$ whoami`
+### A little about this place
 
 I'm someone with a lot of ideas and an even bigger curiosity about whether I can actually make them work.
 
@@ -31,7 +24,7 @@ I experiment, build, break things, debug, learn and repeat.
 
 ---
 
-### `$ ./experiments`
+### Experiments & projects
 
 A few things that started as ideas and turned into actual projects.
 
@@ -41,18 +34,36 @@ A few things that started as ideas and turned into actual projects.
 
 <h3>🎬 CineTube</h3>
 
-A Chrome extension exploring a different way to experience YouTube, with a UI inspired by streaming platforms.
+A Chrome extension exploring a different way to experience YouTube, with a user interface inspired by streaming platforms.
 
-[Explore →](https://github.com/kchecksfiles/CineTube)
+[Explore repository →](https://github.com/kchecksfiles/CineTube)
 
 </td>
 <td width="50%" valign="top">
 
 <h3>📦 ShredPack</h3>
 
-An open-source Windows archive extractor. One of those ideas that turned into a proper application.
+An open-source Windows archive utility. An idea that turned into a standalone application for working with compressed files.
 
-[Explore →](https://github.com/kchecksfiles/ShredPack)
+[Explore repository →](https://github.com/kchecksfiles/ShredPack)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌡️ Lenovo Fan Control</h3>
+
+Experimenting with an existing Lenovo fan-control project, modifying its functionality and working through fan-control behaviour and implementation.
+
+[Explore repository →](https://github.com/kchecksfiles/Lenovo-Fan-Control)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💡 Whatever comes next</h3>
+
+Probably something I randomly thought of, wondered if it was possible, and decided to build.
 
 </td>
 </tr>
@@ -60,12 +71,11 @@ An open-source Windows archive extractor. One of those ideas that turned into a 
 
 ---
 
-### `$ current_state`
+### Currently exploring
 
 ```yaml
 mode: experimenting
 approach: AI-assisted building
-mindset: curiosity-driven
 
 interests:
   - turning ideas into applications
@@ -78,32 +88,21 @@ status: always_work_in_progress
 
 ---
 
-### `$ github --activity`
+### GitHub activity
+
+A running history of experiments, commits, rabbit holes and things getting built.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kchecksfiles&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kchecksfiles&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="49%" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kchecksfiles&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<a href="https://github.com/kchecksfiles?tab=overview#contribution-graph">
+  <img src="https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-161B22?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="View GitHub activity"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   No grand plan. No particular destination.│
-│                                            │
-│   Just curiosity and the freedom to build. │
-│                                            │
-└────────────────────────────────────────────┘
-```
 
 **Curiosity is the brief. Building is the game.**
 
