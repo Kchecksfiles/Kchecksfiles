@@ -1,0 +1,13 @@
+Kchecksfiles README package
+
+Upload README.md and the assets/ folder to the root of your profile repository.
+
+The project links currently use:
+- kchecksfiles/CineTube
+- kchecksfiles/ShredPack
+- kchecksfiles/Lenovo-Fan-Control
+
+If your actual repository names differ, update those three URLs in README.md.
+
+The animated GIFs are pre-rendered because GitHub README files do not execute custom CSS or JavaScript.
+The tech-playground GIF is decorative; the static logo row below it contains the clickable links.
