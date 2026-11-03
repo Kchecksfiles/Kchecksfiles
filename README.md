@@ -63,10 +63,11 @@ A collection of things I've used, explored, modified, learned from or experiment
 
 <div align="center">
 
-<img src="assets/marquee.svg?v=2" width="100%" alt="Things I've tinkered with marquee" />
+<a href="https://github.com/Kchecksfiles/Kchecksfiles">
+  <img src="assets/marquee.svg?v=2" width="100%" alt="Things I've tinkered with marquee" />
+</a>
 
 </div>
-
 ---
 
 <div align="center">
