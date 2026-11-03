@@ -1,9 +1,11 @@
-[README.md](https://github.com/user-attachments/files/34312299/README.md)
+[README.md](https://github.com/user-attachments/files/34312379/README.md)
 <div align="center">
 
 <img src="assets/header-flicker-github-v2.gif" width="100%" alt="Green terminal prompt types phrases, glows and flickers, then backspaces to the next phrase." />
 
-<p align="center"><img src="assets/terminal/username-matrix.gif" alt="KCHECKSFILES, with letters resolving through binary digits in a green terminal effect." /></p>
+<div align="center">
+<img src="assets/terminal/username-matrix.gif" width="100%" alt="KCHECKSFILES, with letters resolving through binary digits in a green terminal effect." />
+</div>
 
 *Ideas → Experiments → Projects.*
 
