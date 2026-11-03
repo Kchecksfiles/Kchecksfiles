@@ -64,7 +64,6 @@ A collection of things I've used, explored, modified, learned from or experiment
 
 <div align="center">
 
-[**Open the interactive tech playground →**](https://kchecksfiles.github.io/kchecksfiles/playground/)
 
 <sub>All ten logos scroll continuously. Hover to pause; click a logo to visit its site.</sub>
 
