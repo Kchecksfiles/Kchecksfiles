@@ -63,7 +63,7 @@ A collection of things I've used, explored, modified, learned from or experiment
 
 <div align="center">
 
-<iframe src="https://kchecksfiles.github.io/Kchecksfiles/marquee.html" width="100%" height="84" frameborder="0" scrolling="no"></iframe>
+<img src="assets/marquee.svg?v=3" width="100%" alt="Things I've tinkered with marquee" />
 
 </div>
 ---
