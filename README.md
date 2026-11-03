@@ -1,9 +1,9 @@
-[README.md](https://github.com/user-attachments/files/34312152/README.md)
+[README.md](https://github.com/user-attachments/files/34312299/README.md)
 <div align="center">
 
 <img src="assets/header-flicker-github-v2.gif" width="100%" alt="Green terminal prompt types phrases, glows and flickers, then backspaces to the next phrase." />
 
-<img src="assets/terminal/username-matrix.gif" width="460" alt="KCHECKSFILES, with letters resolving through binary digits in a green terminal effect." />
+<p align="center"><img src="assets/terminal/username-matrix.gif" alt="KCHECKSFILES, with letters resolving through binary digits in a green terminal effect." /></p>
 
 *Ideas → Experiments → Projects.*
 
@@ -64,6 +64,7 @@ A collection of things I've used, explored, modified, learned from or experiment
 
 <div align="center">
 
+[**Open the interactive tech playground →**](https://kchecksfiles.github.io/kchecksfiles/playground/)
 
 <sub>All ten logos scroll continuously. Hover to pause; click a logo to visit its site.</sub>
 
