@@ -63,21 +63,26 @@ A collection of things I've used, explored, modified, learned from or experiment
 
 <div align="center">
 
-<a href="https://pixelos.net/"><img src="assets/logos/pixelos.png" width="48" height="48" alt="PixelOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.webosbrew.org/"><img src="assets/logos/homebrew.png" width="48" height="48" alt="LG webOS Homebrew" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/reisxd/TizenBrew"><img src="assets/logos/tizenbrew.png" width="48" height="48" alt="TizenBrew" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://lineageos.org/"><img src="assets/logos/lineageos.png" width="48" height="48" alt="LineageOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://zorin.com/os/"><img src="assets/logos/linux.png" width="48" height="48" alt="Zorin OS" /></a>
+<p align="center">
+  <a href="https://pixelos.net/"><img src="assets/logos/pixelos.png" width="48" height="48" alt="PixelOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.webosbrew.org/"><img src="assets/logos/homebrew.png" width="48" height="48" alt="LG webOS Homebrew" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/reisxd/TizenBrew"><img src="assets/logos/tizenbrew.png" width="48" height="48" alt="TizenBrew" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://lineageos.org/"><img src="assets/logos/lineageos.png" width="48" height="48" alt="LineageOS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://zorin.com/os/"><img src="assets/logos/linux.png" width="48" height="48" alt="Zorin OS" /></a>
+</p>
 
-<br/>
-
-<a href="https://github.com/kchecksfiles/ShredPack"><img src="assets/logos/shredpack.png" width="48" height="48" alt="ShredPack" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kchecksfiles/Lenovo-Fan-Control"><img src="assets/logos/lenovo-fan-control.png" width="48" height="48" alt="Fan Control" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.pcstudio.in/pc-build/"><img src="assets/logos/pc-building.png" width="48" height="48" alt="PC Building" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.chrome.com/docs/extensions/"><img src="assets/logos/chrome-extensions.png" width="48" height="48" alt="Extensions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ChrisTitusTech/winutil"><img src="assets/logos/debloating-terminal.png" width="48" height="48" alt="Debloating" /></a>
+<p align="center">
+  <a href="https://github.com/kchecksfiles/ShredPack"><img src="assets/logos/shredpack.png" width="48" height="48" alt="ShredPack" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kchecksfiles/Lenovo-Fan-Control"><img src="assets/logos/lenovo-fan-control.png" width="48" height="48" alt="Fan Control" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.pcstudio.in/pc-build/"><img src="assets/logos/pc-building.png" width="48" height="48" alt="PC Building" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.chrome.com/docs/extensions/"><img src="assets/logos/chrome-extensions.png" width="48" height="48" alt="Extensions" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ChrisTitusTech/winutil"><img src="assets/logos/debloating-terminal.png" width="48" height="48" alt="Debloating" /></a>
+</p>
 
 </div>
+
+<br />
+
 ---
 
 <div align="center">
