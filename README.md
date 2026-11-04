@@ -1,6 +1,4 @@
 
-<div align="center">
-
 <img src="assets/header-flicker-github-v2.gif" width="100%" alt="Green terminal prompt types phrases, glows and flickers, then backspaces to the next phrase." />
 
 <div align="center">
@@ -81,7 +79,7 @@ A collection of things I've used, explored, modified, learned from or experiment
   <tr>
     <td align="center"><a href="https://github.com/kchecksfiles/ShredPack"><img src="assets/logos/shredpack.png" width="58" alt="ShredPack" /></a></td>
     <td align="center"><a href="https://github.com/kchecksfiles/Lenovo-Fan-Control"><img src="assets/logos/lenovo-fan-control.png" width="58" alt="Lenovo Fan Control" /></a></td>
-    <td align="center"><a href="https://www.pcstudio.in/pc-build/"><img src="assets/logos/pc-building.png" width="58" alt="PC Building" /></a></td>
+    <td align="center"><a href="https://github.com/kchecksfiles/CineTube"><img src="assets/logos/cinetube.png" width="58" alt="CineTube" /></a></td>
     <td align="center"><a href="https://developer.chrome.com/docs/extensions/"><img src="assets/logos/chrome-extensions.png" width="58" alt="Chrome Extensions" /></a></td>
     <td align="center"><a href="https://github.com/ChrisTitusTech/winutil"><img src="assets/logos/debloating-terminal.png" width="58" alt="Debloating" /></a></td>
   </tr>
